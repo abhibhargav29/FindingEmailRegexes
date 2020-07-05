@@ -1,5 +1,6 @@
 import re
 import pyperclip
+#Install pyperclip using "pip install pyperclip" or "pip3 install pyperclip" depending on python version.
 
 string = pyperclip.paste()
 
